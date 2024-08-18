@@ -29,31 +29,31 @@ A key feature of this project is the development of an interactive Human Resourc
 
 ### Data Cleaning and Exploratory Data Analysis (EDA) Framework
 
-This project employs a robust framework for data cleaning and exploratory data analysis (EDA), designed to ensure the integrity and usability of the HR dataset before any further analysis or modeling is conducted.
+This project utilizes a comprehensive framework for data cleaning and exploratory data analysis (EDA) to ensure the HR dataset is accurate, consistent, and ready for analysis.
 
 #### Data Cleaning
 
-The data cleaning process involves several critical steps:
+The data cleaning process includes the following steps:
 
-1. **Handling Missing Values:** Identifying and addressing any missing data through imputation or removal, depending on the context and impact on analysis.
-2. **Outlier Detection and Treatment:** Detecting outliers that could skew the analysis and deciding on appropriate strategies to handle them, such as transformation or removal.
-3. **Data Type Conversion:** Ensuring that all variables are correctly typed (e.g., categorical, numerical) to facilitate accurate analysis.
-4. **Normalization and Standardization:** Applying necessary transformations to ensure that the data is scaled appropriately, especially for variables that will be used in modeling.
-5. **Categorical Data Encoding:** Converting categorical variables into numerical formats using techniques like one-hot encoding or label encoding as needed.
+1. **Handling Missing Values:** Identifying and managing missing data through imputation or removal, depending on the impact on the analysis.
+2. **Outlier Management:** Detecting and addressing outliers to prevent skewed results, either by transformation or removal.
+3. **Data Type Validation:** Ensuring all variables are correctly typed (categorical, numerical) to support accurate analysis.
+4. **Normalization and Standardization:** Scaling data appropriately, particularly for variables used in modeling.
+5. **Categorical Data Encoding:** Converting categorical variables into numerical formats, such as one-hot encoding or label encoding, as necessary.
 
 #### Exploratory Data Analysis (EDA)
 
-Following data cleaning, the EDA framework is implemented to gain initial insights and understand the underlying patterns within the dataset:
+After data cleaning, the EDA framework is applied to uncover initial insights and patterns within the dataset:
 
-1. **Descriptive Statistics:** Summarizing the data using measures of central tendency (mean, median) and variability (standard deviation, range).
-2. **Univariate Analysis:** Examining the distribution of individual variables, including visualizations such as histograms, box plots, and bar charts.
-3. **Bivariate and Multivariate Analysis:** Exploring relationships between variables using techniques such as correlation matrices, scatter plots, and pair plots to identify potential trends and interactions.
-4. **Data Visualization:** Creating a range of visualizations using tools like Matplotlib and Seaborn to clearly illustrate key findings and patterns.
-5. **Initial Hypothesis Generation:** Formulating hypotheses based on observed trends that can be tested in further stages of analysis or modeling.
+1. **Descriptive Statistics:** Summarizing key statistics like mean, median, and standard deviation.
+2. **Univariate Analysis:** Analyzing the distribution of individual variables using visualizations such as histograms and box plots.
+3. **Bivariate and Multivariate Analysis:** Exploring relationships between variables with correlation matrices, scatter plots, and pair plots.
+4. **Data Visualization:** Using Matplotlib and Seaborn to create visual representations of key findings.
+5. **Hypothesis Generation:** Developing hypotheses based on observed trends for further analysis.
 
-This framework ensures a thorough understanding of the dataset, enabling informed decision-making throughout the subsequent stages of the project. 
+This framework provides a solid foundation for understanding the dataset and supports informed decision-making in subsequent project stages.
 
-The detail python notebook with furthur instruction can be found at ![HR Analysis.ipynb](https://github.com/AlexDatTr/Human-Resources-Analysis/blob/master/HR%20Analysis.ipynb)
+For more details and further instructions, please refer to the Python notebook: [HR Analysis.ipynb](https://github.com/AlexDatTr/Human-Resources-Analysis/blob/master/HR%20Analysis.ipynb).
   
 ## Dataset
 
