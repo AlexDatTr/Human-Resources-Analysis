@@ -6,7 +6,15 @@ This repository contains a comprehensive analysis of Human Resources (HR) data, 
 
 The objective of this project is to analyze HR-related data to identify patterns, trends, and factors influencing employee behavior and organizational outcomes. By leveraging data, we can make informed decisions that contribute to the improvement of HR processes and employee satisfaction.
 
-A key feature of this project is the development of an interactive Human Resources Dashboard. Given the dataset's similarity to those used by many HR management systems (HRMS) on the market, the Power BI dashboard can be easily adapted for business use with minimal fine-tuning and data transformation.
+This project will 
+
+
+## Key Features
+
+### Data Cleaning and Preprocessing:** Methods to handle missing data, outliers, and categorical variables.
+### Exploratory Data Analysis (EDA):** An in-depth exploration of the dataset to uncover initial insights and data patterns.
+### Visualization
+  A key feature of this project is the development of an interactive Human Resources Dashboard. Given the dataset's similarity to those used by many HR management systems (HRMS) on the market, the Power BI dashboard can be easily adapted for business use with minimal fine-tuning and data transformation.
 
 <img src="https://github.com/user-attachments/assets/d1ef4410-bf7a-4b9d-a627-4fcba0d5738c" alt="Comprehensive HR Dashboard Overview" style="display: block; margin-left: auto; margin-right: auto;" />
 <p align="center"><i style="font-weight: 300;">Comprehensive HR Dashboard Overview</i></p>
@@ -14,14 +22,6 @@ A key feature of this project is the development of an interactive Human Resourc
 
 <img src="https://github.com/user-attachments/assets/c995a940-95f7-408e-83e4-66d7ad7293aa" alt="Employee Retention and Demographic Insights" style="display: block; margin-left: auto; margin-right: auto;" />
 <p align="center"><i style="font-weight: 300;">Employee Demographic Insights</i></p>
-
-
-## Key Features
-
-- **Data Cleaning and Preprocessing:** Methods to handle missing data, outliers, and categorical variables.
-- **Exploratory Data Analysis (EDA):** An in-depth exploration of the dataset to uncover initial insights and data patterns.
-- **Visualization:** Use of charts and graphs to present findings in a clear and concise manner.
-- **Statistical Analysis:** Application of various statistical methods to understand relationships between variables.
   
 ## Dataset
 
