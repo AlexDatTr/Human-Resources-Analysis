@@ -18,8 +18,8 @@ A key feature of this project is the development of an interactive Human Resourc
 
 ## Key Features
 
-- **Exploratory Data Analysis (EDA):** An in-depth exploration of the dataset to uncover initial insights and data patterns.
 - **Data Cleaning and Preprocessing:** Methods to handle missing data, outliers, and categorical variables.
+- **Exploratory Data Analysis (EDA):** An in-depth exploration of the dataset to uncover initial insights and data patterns.
 - **Visualization:** Use of charts and graphs to present findings in a clear and concise manner.
 - **Statistical Analysis:** Application of various statistical methods to understand relationships between variables.
   
@@ -29,11 +29,11 @@ The analysis is conducted on a synthetic HR dataset, which includes various attr
 
 ## Tools and Technologies
 
-- **Python:** The primary programming language used for data analysis.
-- **Pandas:** For data manipulation and analysis.
-- **NumPy:** For numerical computations.
-- **Matplotlib & Seaborn:** For data visualization.
-- **Scikit-learn:** For predictive modeling and machine learning.
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
 ## How to Use
 
