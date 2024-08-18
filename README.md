@@ -13,7 +13,7 @@ A key feature of this project is the development of an interactive Human Resourc
 
 
 <img src="https://github.com/user-attachments/assets/c995a940-95f7-408e-83e4-66d7ad7293aa" alt="Employee Retention and Demographic Insights" style="display: block; margin-left: auto; margin-right: auto;" />
-<p align="center"><i style="font-weight: 300;">Employee Retention and Demographic Insights</i></p>
+<p align="center"><i style="font-weight: 300;">Employee Demographic Insights</i></p>
 
 
 ## Key Features
