@@ -32,14 +32,6 @@ The analysis is conducted on a synthetic HR dataset, which includes various attr
 - **Matplotlib & Seaborn:** For data visualization.
 - **Scikit-learn:** For predictive modeling and machine learning.
 
-## Results and Insights
-
-The key findings from this analysis include:
-
-- Identification of factors that contribute most to employee turnover.
-- Insights into the impact of job satisfaction and performance scores on employee retention.
-- Visualization of workforce diversity across different departments.
-
 ## How to Use
 
 1. **Clone the repository:**
