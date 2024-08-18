@@ -6,7 +6,7 @@ This repository contains a comprehensive analysis of Human Resources (HR) data, 
 
 The objective of this project is to analyze HR-related data to identify patterns, trends, and factors influencing employee behavior and organizational outcomes. By leveraging data, we can make informed decisions that contribute to the improvement of HR processes and employee satisfaction.
 
-One Key Feature of the project is the presented interactive Human Resources Dashboard. Since the dataset used for this project have a lot similar feature similar to dataset from many HRMS in the market, the Power BI dashboard can applied with mimimal fine tuning and data transformation to adopt for business use.
+A key feature of this project is the development of an interactive Human Resources Dashboard. Given the dataset's similarity to those used by many HR management systems (HRMS) on the market, the Power BI dashboard can be easily adapted for business use with minimal fine-tuning and data transformation.
 
 ![image](https://github.com/user-attachments/assets/d1ef4410-bf7a-4b9d-a627-4fcba0d5738c)
 
