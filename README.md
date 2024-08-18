@@ -8,9 +8,11 @@ The objective of this project is to analyze HR-related data to identify patterns
 
 A key feature of this project is the development of an interactive Human Resources Dashboard. Given the dataset's similarity to those used by many HR management systems (HRMS) on the market, the Power BI dashboard can be easily adapted for business use with minimal fine-tuning and data transformation.
 
-![Comprehensive HR Dashboard Overview](https://github.com/user-attachments/assets/d1ef4410-bf7a-4b9d-a627-4fcba0d5738c)
+<img src="https://github.com/user-attachments/assets/d1ef4410-bf7a-4b9d-a627-4fcba0d5738c" alt="Comprehensive HR Dashboard Overview" style="display: block; margin-left: auto; margin-right: auto;" />
+<p align="center"><b>Comprehensive HR Dashboard Overview</b></p>
 
-![Employee Demographic Insights](https://github.com/user-attachments/assets/c995a940-95f7-408e-83e4-66d7ad7293aa)
+<img src="https://github.com/user-attachments/assets/c995a940-95f7-408e-83e4-66d7ad7293aa" alt="Employee Retention and Demographic Insights" style="display: block; margin-left: auto; margin-right: auto;" />
+<p align="center"><b>Employee Retention and Demographic Insights</b></p>
 
 ## Key Features
 
