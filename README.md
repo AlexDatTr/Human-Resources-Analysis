@@ -34,7 +34,8 @@ These insights empower HR professionals and decision-makers to quickly and accur
 
 The analysis utilizes a synthetic HR dataset provided by Dr. Carla Patalano and Dr. Rich Huebner. This dataset includes a wide range of attributes such as employee age, department, salary, job satisfaction, performance scores, and more, making it an excellent representation of real-world HR data. Designed for educational and analytical purposes, this dataset enables the exploration of various HR-related topics.
 
-For detailed information about the dataset, including data files, licensing, codebook, and metadata, you can visit the following link: [Human Resources Data Set on Kaggle](https://www.kaggle.com/datasets/rhuebner/human-resources-data-set).
+For detailed information about the dataset, including data files, licensing, codebook, and metadata, you can visit the following link:
+[Human Resources Data Set on Kaggle](https://www.kaggle.com/datasets/rhuebner/human-resources-data-set).
 
 ## Tools and Technologies
 
