@@ -13,18 +13,17 @@ The project framework encompasses all key stages of data analysis, from initial 
 These insights empower HR professionals and decision-makers to quickly and accurately assess workforce performance, identify areas for improvement, and make informed decisions that support organizational goals. The versatility and scalability of the dashboard ensure it can be seamlessly integrated into various HR management systems, providing valuable insights across different business contexts.
 
 
-## Key Features
+<div style="display: flex; flex-direction: column; align-items: center;">
+    <div style="margin-bottom: 20px;">
+        <img src="https://github.com/user-attachments/assets/d1ef4410-bf7a-4b9d-a627-4fcba0d5738c" alt="Comprehensive HR Dashboard Overview" />
+        <p align="center"><i style="font-weight: 300;">Comprehensive HR Dashboard Overview</i></p>
+    </div>
+    <div>
+        <img src="https://github.com/user-attachments/assets/c995a940-95f7-408e-83e4-66d7ad7293aa" alt="Employee Retention and Demographic Insights" />
+        <p align="center"><i style="font-weight: 300;">Employee Demographic Insights</i></p>
+    </div>
+</div>
 
-### Visualization
-
-A key feature of this project is the development of an interactive Human Resources Dashboard. Given the dataset's similarity to those used by many HR management systems (HRMS) on the market, the Power BI dashboard can be easily adapted for business use with minimal fine-tuning and data transformation.
-
-<img src="https://github.com/user-attachments/assets/d1ef4410-bf7a-4b9d-a627-4fcba0d5738c" alt="Comprehensive HR Dashboard Overview" style="display: block; margin-left: auto; margin-right: auto;" />
-<p align="center"><i style="font-weight: 300;">Comprehensive HR Dashboard Overview</i></p>
-
-
-<img src="https://github.com/user-attachments/assets/c995a940-95f7-408e-83e4-66d7ad7293aa" alt="Employee Retention and Demographic Insights" style="display: block; margin-left: auto; margin-right: auto;" />
-<p align="center"><i style="font-weight: 300;">Employee Demographic Insights</i></p>
 
 
 ### Data Cleaning and Exploratory Data Analysis (EDA) Framework
