@@ -13,24 +13,17 @@ The project framework encompasses all key stages of data analysis, from initial 
 These insights empower HR professionals and decision-makers to quickly and accurately assess workforce performance, identify areas for improvement, and make informed decisions that support organizational goals. The versatility and scalability of the dashboard ensure it can be seamlessly integrated into various HR management systems, providing valuable insights across different business contexts.
 
 
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github.com/user-attachments/assets/d1ef4410-bf7a-4b9d-a627-4fcba0d5738c" alt="Comprehensive HR Dashboard Overview" style="display: block;" />
-    </td>
-    <td>
-      <img src="https://github.com/user-attachments/assets/c995a940-95f7-408e-83e4-66d7ad7293aa" alt="Employee Retention and Demographic Insights" style="display: block;" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <p><i style="font-weight: 300;">Human Resources Dashboard</i></p>
-    </td>
-  </tr>
-</table>
-
-
-
+<div style="display: flex; justify-content: center; align-items: center; flex-direction: column;">
+  <div style="display: flex; justify-content: center;">
+    <div style="margin-right: 20px;">
+      <img src="https://github.com/user-attachments/assets/d1ef4410-bf7a-4b9d-a627-4fcba0d5738c" alt="Comprehensive HR Dashboard Overview" style="max-width: 100%; height: auto;" />
+    </div>
+    <div>
+      <img src="https://github.com/user-attachments/assets/c995a940-95f7-408e-83e4-66d7ad7293aa" alt="Employee Retention and Demographic Insights" style="max-width: 100%; height: auto;" />
+    </div>
+  </div>
+  <p style="text-align: center;"><i style="font-weight: 300;">Human Resources Dashboard</i></p>
+</div>
 
 
 ### Data Cleaning and Exploratory Data Analysis (EDA) Framework
